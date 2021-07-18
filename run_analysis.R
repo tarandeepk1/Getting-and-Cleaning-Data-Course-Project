@@ -1,3 +1,5 @@
+library(dplyr)
+library(plyr)
 library(reshape2)
 #merging train and test data
 
